@@ -1,2 +1,2 @@
-# Reddit-Live
-Create React App Demo Project
+# reddit-live
+Create-React-App Demo Project
